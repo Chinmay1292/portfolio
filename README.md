@@ -1,1 +1,1 @@
-[Click]{https://chinmay1292.github.io/portfolio/}
+[Click](https://chinmay1292.github.io/portfolio/)
